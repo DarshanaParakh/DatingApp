@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-A dating app along the lines of tinder.
+A dating app like tinder.
